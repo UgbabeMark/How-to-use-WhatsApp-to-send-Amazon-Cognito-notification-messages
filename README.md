@@ -1,5 +1,7 @@
 # How to use WhatsApp to send Amazon Cognito notification messages.
 
+ ![Enrollment](images/AWS1.png)
+
 # Overview
 
 By default, Amazon Cognito uses Amazon Simple Notification Service (Amazon SNS) to deliver SMS text messages. Cognito also supports custom triggers allowing you to invoke an AWS Lambda 
